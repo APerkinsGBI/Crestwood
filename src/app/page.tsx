@@ -12,16 +12,11 @@ export default function Home() {
       </span>
 
       <h1 className="text-balance text-4xl font-semibold tracking-tight sm:text-6xl">
-        Insurance AI
+        Crestwood
       </h1>
 
-      <p className="mt-5 max-w-xl text-balance text-base text-foreground/60 sm:text-lg">
-        An AI platform that sits on top of your agency management system and
-        takes the repetitive work off your team&rsquo;s plate.
-      </p>
-
       <p className="mt-10 font-mono text-xs uppercase tracking-widest text-foreground/40">
-        Something is being built here.
+        Coming soon&hellip;
       </p>
     </main>
   );

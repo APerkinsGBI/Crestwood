@@ -13,9 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Insurance AI — Building",
-  description:
-    "An AI platform that takes the repetitive work off insurance agency teams.",
+  title: "Crestwood",
+  description: "Crestwood — coming soon.",
 };
 
 export default function RootLayout({
